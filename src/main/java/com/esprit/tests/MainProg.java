@@ -1,6 +1,5 @@
 package com.esprit.tests;
 
-import com.esprit.models.entity;
 //import main.java.com.esprit.services.EntityService;
 //import com.esprit.services.EntityService2;
 import com.esprit.services.questionService;
